@@ -2,10 +2,11 @@
   "schemaVersion": 1,
   "id": "tiers",
   "version": "${version}",
-  "name": "Tiers",
-  "description": "Official Tier Tagger of PvPTiers. Supports other Tierlists: MCTiers, Subtiers",
+  "name": "Tiers (mctiers.net fork)",
+ "description": "Unofficial fork of PvPTiers/Tiers. MCTiers API endpoint changed to mctiers.net.",
   "authors": [
-    "Flavio6561"
+    "Flavio6561",
+    "tenpura518 (fork maintainer)"
   ],
   "license": "GPL-3.0",
   "contact": {
