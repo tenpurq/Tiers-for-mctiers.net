@@ -263,7 +263,7 @@ public class PlayerProfile {
         if (!regular)
             savePlayerImage();
 
-        profileMCTiers = new MCTiersProfile(uuid, "https://mctiers.com/api/v2/profile/");
+        profileMCTiers = new MCTiersProfile(uuid, "https://mctiers.net/api/v2/profile/");
         profilePvPTiers = new PvPTiersProfile(uuid, "https://pvptiers.com/api/profile/");
         profileSubtiers = new SubtiersProfile(uuid, "https://subtiers.net/api/profile/");
 
