@@ -1,3 +1,6 @@
+> **Unofficial fork** of [PvPTiers/Tiers](https://github.com/PvPTiers/Tiers) (GPL-3.0).
+> Change: MCTiers API endpoint changed from mctiers.com to mctiers.net (Minecraft 1.21.11, based on 0.7.2).
+> Not affiliated with or endorsed by the original authors.
 ## Tiers,
 
 Official Display mod for [PvPTiers](https://pvptiers.com). Also Supports other Tierlists: [MCTiers](https://mctiers.com) and [Subtiers](https://subtiers.net)
